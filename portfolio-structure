@@ -1,0 +1,90 @@
+aarush-portfolio/
+├── public/
+│   ├── images/
+│   │   ├── profile.jpg
+│   │   ├── ap-scholar.jpg
+│   │   ├── projects/
+│   │   │   ├── unheard-amritsar.jpg
+│   │   │   ├── deafassist.jpg
+│   │   │   ├── eighth-fold.jpg
+│   │   │   ├── navbhoomi.jpg
+│   │   │   ├── pmrs.jpg
+│   │   │   ├── saamved.jpg
+│   │   │   ├── rebhajan.jpg
+│   │   │   ├── resonest.jpg
+│   │   │   ├── beyond-space.jpg
+│   │   │   ├── harmonyflow.jpg
+│   │   │   ├── retention-research.jpg
+│   │   │   ├── deafassist-research.jpg
+│   │   │   ├── perceived-loudness.jpg
+│   │   │   ├── fourier-essay.jpg
+│   │   │   └── auditory-model.jpg
+│   │   └── certificates/
+│   │       ├── ap-scholar.jpg
+│   │       ├── iris-national.jpg
+│   │       ├── harvard-individual.jpg
+│   │       ├── harvard-team.jpg
+│   │       ├── infinity.jpg
+│   │       ├── ek-pehchaan.jpg
+│   │       ├── mun.jpg
+│   │       ├── entrepreneur.jpg
+│   │       ├── manipal-rec.jpg
+│   │       ├── aman-rec.jpg
+│   │       ├── ashish-rec.jpg
+│   │       └── football.jpg
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── layout/
+│   │   │   ├── Navbar.jsx
+│   │   │   ├── Footer.jsx
+│   │   │   ├── Layout.jsx
+│   │   │   └── ScrollToTop.jsx
+│   │   ├── sections/
+│   │   │   ├── Hero.jsx
+│   │   │   ├── About.jsx
+│   │   │   ├── Skills.jsx
+│   │   │   ├── Education.jsx
+│   │   │   ├── Projects.jsx
+│   │   │   ├── Achievements.jsx
+│   │   │   ├── Extracurriculars.jsx
+│   │   │   ├── Contact.jsx
+│   │   │   └── Certificates.jsx
+│   │   ├── ui/
+│   │   │   ├── SectionHeading.jsx
+│   │   │   ├── ProjectCard.jsx
+│   │   │   ├── SkillBar.jsx
+│   │   │   ├── TimelineItem.jsx
+│   │   │   ├── CertificateCard.jsx
+│   │   │   ├── AchievementCard.jsx
+│   │   │   ├── AnimatedCounter.jsx
+│   │   │   ├── ParticleBackground.jsx
+│   │   │   ├── GlowCard.jsx
+│   │   │   └── MagneticButton.jsx
+│   │   └── common/
+│   │       ├── Modal.jsx
+│   │       └── BackToTop.jsx
+│   ├── data/
+│   │   ├── personalInfo.js
+│   │   ├── skills.js
+│   │   ├── education.js
+│   │   ├── projects.js
+│   │   ├── achievements.js
+│   │   ├── certificates.js
+│   │   ├── extracurriculars.js
+│   │   └── socialLinks.js
+│   ├── hooks/
+│   │   ├── useScrollProgress.js
+│   │   ├── useActiveSection.js
+│   │   └── useMediaQuery.js
+│   ├── utils/
+│   │   └── animations.js
+│   ├── styles/
+│   │   └── index.css
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+├── tailwind.config.js
+├── vite.config.js
+├── postcss.config.js
+└── package.json
