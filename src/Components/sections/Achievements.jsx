@@ -16,7 +16,7 @@ const Achievements = () => {
       <div className="max-w-7xl mx-auto relative z-10">
         <SectionHeading
           title="Achievements & Awards"
-          subtitle="Recognitions and milestones across academics, entrepreneurship, and beyond."
+          subtitle="Recognitions and milestones across academics, entrepreneurship, and beyond. Click any card to preview the certificate."
         />
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">

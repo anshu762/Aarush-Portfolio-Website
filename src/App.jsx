@@ -12,6 +12,8 @@ import Contact from './components/sections/Contect.jsx';
 import BackToTop from './components/comman/BackToTop.jsx';
 import Loader from './components/comman/Loader.jsx';
 import ErrorBoundary from './components/comman/ErrorBoundary.jsx';
+import DeafAssist from './components/sections/DeafAssist';
+
 
 function App() {
   const [loading, setLoading] = useState(true);
@@ -51,6 +53,7 @@ function App() {
         <Skills />
         <Education />
         <Projects />
+        <DeafAssist />
         <Achievements />
         <Certificates />
         <Extracurriculars />
