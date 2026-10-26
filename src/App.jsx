@@ -8,7 +8,7 @@ import Projects from './components/sections/Projects';
 import Achievements from './components/sections/Achievements';
 import Certificates from './components/sections/Certificates';
 import Extracurriculars from './components/sections/Extracurriculars';
-import Contact from './components/sections/Contect.jsx';
+import Contact from './components/sections/Contact.jsx';
 import BackToTop from './components/comman/BackToTop.jsx';
 import Loader from './components/comman/Loader.jsx';
 import ErrorBoundary from './components/comman/ErrorBoundary.jsx';
