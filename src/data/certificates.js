@@ -87,24 +87,6 @@ export const certificatesData = [
   },
   {
     id: 10,
-    title: 'Recommendation - Aman Moroney',
-    issuer: 'Principal Faculty, The Media Tribe',
-    date: '',
-    description: 'Discusses Aarush\'s music production training, original composition, collaboration and professional exposure connected with Prithvi Theatre.',
-    link: 'https://docs.google.com/document/d/1bMJISoGlgM7ADClUEyB89nt1SGIH0uW9/edit?usp=drivesdk&ouid=102083368301295018363&rtpof=true&sd=true',
-    type: 'recommendation',
-  },
-  {
-    id: 11,
-    title: 'Recommendation - Ashish Manchanda',
-    issuer: 'Founder and Director, The Media Tribe',
-    date: '',
-    description: 'Discusses Aarush\'s development through three specialised programs, response to professional feedback and cultural curiosity.',
-    link: 'https://docs.google.com/document/d/1KU48AS37PStSv-et8o5ak7w_jFNDCFAC/edit?usp=drivesdk&ouid=102083368301295018363&rtpof=true&sd=true',
-    type: 'recommendation',
-  },
-  {
-    id: 12,
     title: 'U19 School Football - Zonal Second Place',
     issuer: 'School Football Team',
     date: '2026-27',
@@ -112,5 +94,27 @@ export const certificatesData = [
     link: 'https://drive.google.com/file/d/1fs0QQMhY2NihT_3iD1ar0HRZoqBGhai9/view?usp=drivesdk',
     image: '/images/certificates/football.jpg',
     type: 'trophy',
+  },
+  {
+    id: 11,
+    title: 'Letter of Recommendation for Cultural Heritage Preservation and Music Rights Advocacy',
+    issuer: 'Punjab Heritage and Tourism Promotion Board',
+    date: '2026',
+    description:
+      'Recognised for supporting Punjab’s musical heritage through Unheard Amritsar and the Punjab Music Rights Society (PMRS), promoting traditional music preservation and protecting musicians’ rights and recognition.',
+    // Certificate you shared ("To Whom it may concern" / Harvard certificate)
+    image: 'https://drive.google.com/uc?export=view&id=1Ib0kTXjg2vT_iJMSG_wvxoBDyCZ_l_Vs',
+    link: 'https://drive.google.com/file/d/1Ib0kTXjg2vT_iJMSG_wvxoBDyCZ_l_Vs/view?usp=sharing',
+    type: 'recommendation',
+  },
+  {
+    id: 13,
+    title: 'Letter of Recommendation for Undergraduate Admission',
+    issuer: 'The Himachal Pradesh State Higher Education Council',
+    date: '2026',
+    description:
+      'Recognised for musical talent, technical skills, and leadership through Unheard Amritsar, preserving Punjab’s musical traditions while supporting traditional musicians through accessible recording and greater awareness of their rights and contributions.',
+    link: 'https://drive.google.com/file/d/19hNLQDD8A3-n5JabsOScQtVhKxa8RiPJ/view?usp=sharing',
+    type: 'recommendation',
   },
 ];
