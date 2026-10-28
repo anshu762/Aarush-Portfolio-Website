@@ -108,7 +108,7 @@ export const certificatesData = [
     type: 'recommendation',
   },
   {
-    id: 13,
+    id: 12,
     title: 'Letter of Recommendation for Undergraduate Admission',
     issuer: 'The Himachal Pradesh State Higher Education Council',
     date: '2026',
