@@ -117,4 +117,14 @@ export const certificatesData = [
     link: 'https://drive.google.com/file/d/19hNLQDD8A3-n5JabsOScQtVhKxa8RiPJ/view?usp=sharing',
     type: 'recommendation',
   },
+  {
+    id: 13,
+    title: 'Letter of Recommendation for Undergraduate Admission',
+    issuer: 'Innovation, Intellectual Curiosity & Social Impact',
+    date: '2026',
+    description:
+      'Recognised by the Government of Punjabs Special Secretary for intellectual curiosity, independent thinking, and innovative problem-solving. Highlighting his DeafAssist initiative, which uses technology to improve accessibility and personal safety for individuals with hearing impairments, along with his commitment to creating meaningful social impact.',
+    link: 'https://drive.google.com/file/d/1IDqT0Ae8E5v6tFraG7jCH_CbodJPgeS4/view?usp=sharing',
+    type: 'recommendation',
+  },
 ];
